@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import os
+from datetime import datetime, timezone, timedelta 
 
 print("Iniciando rotina de extração...")
 
@@ -44,7 +45,7 @@ tabela_precos['Date'] = tabela_precos['Date'].dt.tz_localize(None)
 tabela_precos['Codigo'] = tabela_precos['Codigo'].str.replace('.SA', '', regex=False)
 
 tabela_precos.to_csv('dados/f_historico_precos.csv', index=False)
-print("1/2 - Arquivo dados/f_historico_precos.csv gerado com sucesso.")
+print("1/3 - Arquivo dados/f_historico_precos.csv gerado com sucesso.")
 
 # --- BLOCO 2: TRATAMENTO DOS DIVIDENDOS ---
 if 'Dividends' in dados.columns.get_level_values('Price'):
@@ -56,8 +57,21 @@ if 'Dividends' in dados.columns.get_level_values('Price'):
     df_div['Codigo'] = df_div['Codigo'].str.replace('.SA', '', regex=False)
     
     df_div.to_csv('dados/f_dividendos.csv', index=False)
-    print("2/2 - Arquivo dados/f_dividendos.csv gerado com sucesso!")
+    print("2/3 - Arquivo dados/f_dividendos.csv gerado com sucesso!")
 else:
     print("Nenhum dividendo encontrado para esses ativos no período.")
+
+# --- BLOCO 3: REGISTRO DE DATA E HORA DA ATUALIZAÇÃO ---
+# Configura o fuso horário para UTC-3 (Horário de Brasília)
+fuso_br = timezone(timedelta(hours=-3))
+agora = datetime.now(fuso_br)
+
+# Formata a data para ficar bonita (Ex: 22/03/2026 18:30:00)
+data_formatada = agora.strftime("%d/%m/%Y %H:%M:%S")
+
+# Cria um mini DataFrame e salva como CSV
+df_atualizacao = pd.DataFrame({'Ultima_Atualizacao': [data_formatada]})
+df_atualizacao.to_csv('dados/ultima_atualizacao.csv', index=False)
+print(f"3/3 - Data de atualização salva: {data_formatada}")
 
 print("Rotina ETL concluída perfeitamente!")

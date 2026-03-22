@@ -38,7 +38,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Adiciona os DOIS arquivos CSVs novos que estão dentro da pasta dados
-          git add dados/f_historico_precos.csv dados/f_dividendos.csv
+          git add dados/f_historico_precos.csv dados/f_dividendos.csv dados/ultima_atualizacao.csv
           
           # Se houve mudança, ele commita e envia. Se os preços forem os mesmos, ele não faz nada.
           git diff --quiet && git diff --staged --quiet || (git commit -m "ETL Bot: Histórico e dividendos atualizados" && git push)
