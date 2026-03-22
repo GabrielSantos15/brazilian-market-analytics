@@ -4,7 +4,6 @@ import os
 
 print("Iniciando rotina de extração...")
 
-# Garante que a pasta 'dados' exista (se não existir, o Python cria na hora)
 os.makedirs('dados', exist_ok=True)
 
 def ler_arquivo_b3(nome_arquivo):
@@ -16,14 +15,18 @@ def ler_arquivo_b3(nome_arquivo):
     df = df[~df['Codigo'].str.upper().str.contains("CÓDIGO|CODIGO", na=False)]
     return df
 
-#  Lê e limpa os arquivos originais (buscando dentro da pasta 'dados')
+# 1. Lê e limpa os arquivos
 df_ibov = ler_arquivo_b3('dados/dim_ibovespa_assets.csv')
 df_ifix = ler_arquivo_b3('dados/dim_ifix_assets.csv')
 df_ativos = pd.concat([df_ibov, df_ifix], ignore_index=True)
 tickers_yahoo = [ticker + '.SA' for ticker in df_ativos['Codigo']]
 
-#  Baixa os dados 
-print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos...")
+# Adicionando os Benchmarks na nossa lista de extração
+tickers_yahoo.append('^BVSP')     # Ibovespa
+tickers_yahoo.append('XFIX11.SA') # ETF espelho do IFIX
+
+# 2. Baixa os dados 
+print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos (incluindo IBOV e IFIX)...")
 dados = yf.download(tickers_yahoo, start="2020-01-01", actions=True)
 
 # --- BLOCO 1: TRATAMENTO DOS PREÇOS ---
@@ -40,7 +43,6 @@ tabela_precos = tabela_precos.dropna(subset=['Preco_Normal'])
 tabela_precos['Date'] = tabela_precos['Date'].dt.tz_localize(None)
 tabela_precos['Codigo'] = tabela_precos['Codigo'].str.replace('.SA', '', regex=False)
 
-# Salva o CSV de Preços na pasta 'dados'
 tabela_precos.to_csv('dados/f_historico_precos.csv', index=False)
 print("1/2 - Arquivo dados/f_historico_precos.csv gerado com sucesso.")
 
@@ -53,7 +55,6 @@ if 'Dividends' in dados.columns.get_level_values('Price'):
     df_div['Date'] = df_div['Date'].dt.tz_localize(None)
     df_div['Codigo'] = df_div['Codigo'].str.replace('.SA', '', regex=False)
     
-    # Salva o CSV de Dividendos direto na pasta 'dados'
     df_div.to_csv('dados/f_dividendos.csv', index=False)
     print("2/2 - Arquivo dados/f_dividendos.csv gerado com sucesso!")
 else:
