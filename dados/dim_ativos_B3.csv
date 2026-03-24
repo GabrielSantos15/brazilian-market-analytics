@@ -1,197 +1,197 @@
-﻿Ticker,Categoria,Empresa,Setor,Industria
-ALOS3,Ação,Allos S.A.,Real Estate,Real Estate Services
-ABEV3,Ação,Ambev S.A.,Consumer Defensive,Beverages - Brewers
-ASAI3,Ação,Sendas Distribuidora S.A.,Consumer Defensive,Grocery Stores
-AURE3,Ação,Auren Energia S.A.,Utilities,Utilities - Renewable
-AXIA3,Ação,AXIA Energia SA,Utilities,Utilities - Renewable
-AXIA6,Ação,AXIA Energia SA,Utilities,Utilities - Renewable
-AXIA7,Ação,AXIA Energia SA,Utilities,Utilities - Renewable
-AZZA3,Ação,Azzas 2154 S.A.,Consumer Cyclical,Footwear & Accessories
-B3SA3,Ação,"B3 S.A. - Brasil, Bolsa, Balcão",Financial Services,Financial Data & Stock Exchanges
-BBSE3,Ação,BB Seguridade Participações S.A.,Financial Services,Insurance - Diversified
-BBDC3,Ação,Banco Bradesco S.A.,Financial Services,Banks - Regional
-BBDC4,Ação,Banco Bradesco S.A.,Financial Services,Banks - Regional
-BRAP4,Ação,Bradespar S.A.,Financial Services,Asset Management
-BBAS3,Ação,Banco do Brasil S.A.,Financial Services,Banks - Regional
-BRKM5,Ação,Braskem S.A.,Basic Materials,Chemicals
-BRAV3,Ação,Brava Energia S.A.,Energy,Oil & Gas E&P
-BPAC11,Ação,Banco BTG Pactual S.A.,Financial Services,Capital Markets
-CXSE3,Ação,Caixa Seguridade Participações S.A.,Financial Services,Insurance - Diversified
-CEAB3,Ação,C&A Modas S.A.,Consumer Cyclical,Specialty Retail
-CMIG4,Ação,Companhia Energética de Minas Gerais - CEMIG,Utilities,Utilities - Diversified
-COGN3,Ação,Cogna Educação S.A.,Consumer Defensive,Education & Training Services
-CSMG3,Ação,Companhia de Saneamento de Minas Gerais,Utilities,Utilities - Regulated Water
-CPLE3,Ação,Companhia Paranaense de Energia - COPEL,Utilities,Utilities - Regulated Electric
-CSAN3,Ação,Cosan S.A.,Energy,Oil & Gas Refining & Marketing
-CPFE3,Ação,CPFL Energia S.A.,Utilities,Utilities - Regulated Electric
-CMIN3,Ação,CSN Mineração S.A.,Basic Materials,Steel
-CURY3,Ação,Cury Construtora e Incorporadora S.A.,Real Estate,Real Estate - Development
-CYRE3,Ação,Cyrela Brazil Realty S.A. Empreendimentos e Participações,Consumer Cyclical,Residential Construction
-CYRE4,Ação,Cyrela Brazil Realty S.A. Empreendimentos e Participações,Consumer Cyclical,Residential Construction
-DIRR3,Ação,Direcional Engenharia S.A.,Real Estate,Real Estate - Development
-EMBJ3,Ação,Embraer S.A.,Industrials,Aerospace & Defense
-ENGI11,Ação,Energisa S.A.,Utilities,Utilities - Regulated Electric
-ENEV3,Ação,Eneva S.A.,Utilities,Utilities - Diversified
-EGIE3,Ação,Engie Brasil Energia S.A.,Utilities,Utilities - Renewable
-EQTL3,Ação,Equatorial S.A.,Utilities,Utilities - Regulated Electric
-FLRY3,Ação,Fleury S.A.,Healthcare,Diagnostics & Research
-GGBR4,Ação,Gerdau S.A.,Basic Materials,Steel
-GOAU4,Ação,Metalurgica Gerdau S.A.,Basic Materials,Steel
-HAPV3,Ação,Hapvida Participações e Investimentos S.A.,Financial Services,Insurance - Life
-HYPE3,Ação,Hypera S.A.,Healthcare,Drug Manufacturers - Specialty & Generic
-IGTI11,Ação,Iguatemi S.A.,Real Estate,Real Estate Services
-IRBR3,Ação,IRB-Brasil Resseguros S.A.,Financial Services,Insurance - Reinsurance
-ISAE4,Ação,ISA Energía Brasil S.A.,Utilities,Utilities - Independent Power Producers
-ITSA4,Ação,Itaúsa S.A.,Industrials,Conglomerates
-ITUB4,Ação,Itaú Unibanco Holding S.A.,Financial Services,Banks - Regional
-KLBN11,Ação,Klabin S.A.,Basic Materials,Paper & Paper Products
-RENT3,Ação,Localiza Rent a Car S.A.,Industrials,Rental & Leasing Services
-RENT4,Ação,Localiza Rent a Car S.A.,Industrials,Rental & Leasing Services
-LREN3,Ação,Lojas Renner S.A.,Consumer Cyclical,Department Stores
-MGLU3,Ação,Magazine Luiza S.A.,Consumer Cyclical,Specialty Retail
-POMO4,Ação,Marcopolo S.A.,Industrials,Farm & Heavy Construction Machinery
-MBRF3,Ação,MBRF Global Foods Company S.A.,Consumer Defensive,Packaged Foods
-BEEF3,Ação,Minerva S.A.,Consumer Defensive,Farm Products
-MOTV3,Ação,Motiva Infraestrutura de Mobilidade S.A.,Industrials,Infrastructure Operations
-MRVE3,Ação,MRV Engenharia e Participações S.A.,Real Estate,Real Estate - Development
-MULT3,Ação,Multiplan Empreendimentos Imobiliários S.A.,Real Estate,Real Estate Services
-NATU3,Ação,Natura Cosméticos S.A.,Consumer Defensive,Household & Personal Products
-PETR3,Ação,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated
-PETR4,Ação,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated
-RECV3,Ação,Petroreconcavo S.A.,Energy,Oil & Gas E&P
-PRIO3,Ação,Prio S.A.,Energy,Oil & Gas E&P
-PSSA3,Ação,Porto Seguro S.A.,Financial Services,Insurance - Diversified
-RADL3,Ação,Raia Drogasil S.A.,Healthcare,Pharmaceutical Retailers
-RDOR3,Ação,Rede D'Or São Luiz S.A.,Healthcare,Medical Care Facilities
-RAIL3,Ação,Rumo S.A.,Industrials,Railroads
-SBSP3,Ação,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,Utilities,Utilities - Regulated Water
-SANB11,Ação,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional
-CSNA3,Ação,Companhia Siderúrgica Nacional,Basic Materials,Steel
-SLCE3,Ação,SLC Agrícola S.A.,Consumer Defensive,Farm Products
-SMFT3,Ação,Smartfit Escola de Ginástica e Dança S.A.,Consumer Cyclical,Leisure
-SUZB3,Ação,Suzano S.A.,Basic Materials,Paper & Paper Products
-TAEE11,Ação,Transmissora Aliança de Energia Elétrica S.A.,Utilities,Utilities - Regulated Electric
-VIVT3,Ação,Telefônica Brasil S.A.,Communication Services,Telecom Services
-TIMS3,Ação,TIM S.A.,Communication Services,Telecom Services
-TOTS3,Ação,TOTVS S.A.,Technology,Software - Application
-UGPA3,Ação,Ultrapar Participações S.A.,Energy,Oil & Gas Refining & Marketing
-USIM5,Ação,Usinas Siderúrgicas de Minas Gerais S.A.,Basic Materials,Steel
-VALE3,Ação,Vale S.A.,Basic Materials,Other Industrial Metals & Mining
-VAMO3,Ação,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",Industrials,Rental & Leasing Services
-VBBR3,Ação,Vibra Energia S.A.,Consumer Cyclical,Specialty Retail
-VIVA3,Ação,Vivara Participações S.A.,Consumer Cyclical,Luxury Goods
-WEGE3,Ação,WEG S.A.,Industrials,Electrical Equipment & Parts
-YDUQ3,Ação,Yduqs Participações S.A.,Consumer Defensive,Education & Training Services
-CACR11,Fundo,Supernova Fundo De Investimento Imobiliario - Recebiveis Imobiliarios,Real Estate,REIT - Diversified
-AFHI11,Fundo,Af Invest Cri Fundo De Investimento Imobiliario - Recebiveis Imobiliarios,Real Estate,REIT - Diversified
-ALZR11,Fundo,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario,Real Estate,Real Estate Services
-RZAT11,Fundo,Riza Arctium Real Estate Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-FATN11,Fundo,BRC Renda Corporativa FII - FII Athena I,Real Estate,REIT - Specialty
-AZPL11,Fundo,FII AZPL    CI,Real Estate,REIT - Industrial
-BBIG11,Fundo,Bb Premium Malls Fundo De Investimento Imobiliário De Responsabilidade Limitada,Real Estate,REIT - Retail
-BRCR11,Fundo,Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund,Real Estate,REIT - Office
-BCIA11,Fundo,Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario,Real Estate,REIT - Diversified
-BCRI11,Fundo,Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII,Real Estate,REIT - Diversified
-BLMG11,Fundo,Bluemacaw Logastica Fundo De Investimento ImobiliaRio,Real Estate,REIT - Industrial
-BRCO11,Fundo,Bresco - Fundo De Investimento Imobiliario,Real Estate,REIT - Industrial
-BROF11,Fundo,Brpr Corporate Offices Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-BTAL11,Fundo,FII Btg Pactual Agro Logistica,Real Estate,REIT - Industrial
-BTCI11,Fundo,Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario,Financial Services,Asset Management
-BPML11,Fundo,Fundo De Investimento Imobiliario BTG Pactual Shoppings,Real Estate,REIT - Retail
-BTHF11,Fundo,Btg Pactual Real Estate Hedge Fund Fii Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-BTLG11,Fundo,BTG Pactual Logística Fundo de Investimento Imobiliário,Real Estate,REIT - Industrial
-CCME11,Fundo,Canuma Capital Multiestrategia Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-CPTS11,Fundo,Capitania Securities II Fundo Investimento Imobiliario FII,Real Estate,REIT - Diversified
-ICRI11,Fundo,FII CI IPCA CI,Real Estate,REIT - Diversified
-CLIN11,Fundo,Clave Indices De Precos Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-CPSH11,Fundo,Capitania Shoppings Fundo De Investimento Imobiliario,Real Estate,REIT - Retail
-CYCR11,Fundo,Cyrela Credito - Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-DEVA11,Fundo,Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-VRTA11,Fundo,Fator Veritá Fundo de Investimento Imobiliário - FII,Real Estate,REIT - Diversified
-GTWR11,Fundo,Fundo Investimento Imobiliario Green Towers,Real Estate,REIT - Office
-GZIT11,Fundo,Gazit Malls Fundo De Investimento Imobiliario,Real Estate,REIT - Specialty
-GGRC11,Fundo,Ggr Covipe Renda Fundo Investimento Imobiliario,Real Estate,REIT - Industrial
-GRUL11,Fundo,Icatu Vanguarda Gru Logistico Fundo De Investimento Imobiliario Responsabilidade Limitada,Real Estate,REIT - Diversified
-GARE11,Fundo,Guardian Logistica Fundo De Investimento Imobiliario,Real Estate,REIT - Specialty
-HABT11,Fundo,Habitat Ii - Fundo De Investimento Imobiliario,Financial Services,Asset Management
-HCTR11,Fundo,Fundo De Investimento Imobiliario Hectare Ce,Financial Services,Asset Management
-HGBS11,Fundo,HEDGE Brasil Shopping Fundo de Investimento Imobiliário,Real Estate,REIT - Retail
-HGCR11,Fundo,CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII,Real Estate,REIT - Diversified
-HGLG11,Fundo,Cshg Logistica - Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-HGRE11,Fundo,CSHG Real Estate - Fundo de Investimento Imobiliario - FII,Real Estate,REIT - Diversified
-HGRU11,Fundo,Patria Renda Urbana - Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-HTMX11,Fundo,FD Invest Imob Hotel Maxinvest,Real Estate,REIT - Hotel & Motel
-HSAF11,Fundo,Hsi Ativos Financeiros Fundos Investimentos Imoliarios,Real Estate,REIT - Diversified
-HSLG11,Fundo,Hsi Logistica Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-HSML11,Fundo,Hsi Malls Fundo De Investimento Imobiliario,Financial Services,Asset Management
-HFOF11,Fundo,Hedge Top Fofii 3 Fundo Investimento Imobilirio,Real Estate,REIT - Specialty
-ITRI11,Fundo,Itau Total Return Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-JSAF11,Fundo,Js Ativos Financeiros Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-JSRE11,Fundo,JS Real Estate multigestão - FII fund,Financial,REIT - Diversified
-JSCR11,Fundo,FII JSCR    CI,Real Estate,REIT - Diversified
-KISU11,Fundo,Kilima Fundo De Investimento Em Cotas De Fundos Imobiliarios Suno 30,Real Estate,REIT - Diversified
-KNRI11,Fundo,Kinea Renda Imobiliária Fundo de Investimento Imobiliário,Financial,REIT - Diversified
-KCRE11,Fundo,Kinea Creditas Fundo De Investimento Imobiliario - FII,Real Estate,REIT - Specialty
-KNHF11,Fundo,Kinea Hedge Fund Fundo De Investimento Imobiliario,Financial Services,Asset Management
-KNHY11,Fundo,Kinea High Yield Cri Fundo Investimento Imobiliario FII,Financial Services,Asset Management
-KNIP11,Fundo,Kinea Indices Precos Fundo Investimento Imobiliario - FII,Real Estate,REIT - Diversified
-KNCR11,Fundo,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,Real Estate,REIT - Mortgage
-KNSC11,Fundo,Kinea Securities Fundo De Investimento Imobiliario – Fii,Real Estate,REIT - Residential
-KNUQ11,Fundo,FII KINEA UNCI,Real Estate,REIT - Diversified
-KFOF11,Fundo,Kinea Fundo Fundos De Investimento Imobiliario FII,Financial Services,Asset Management
-KIVO11,Fundo,Kilima Volkano Recebiveis Imobiliarios Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-KORE11,Fundo,Kinea Oportunidades Real Estate Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-LIFE11,Fundo,Life Capital Partners Fundo De Investimentos Imobiliarios,Real Estate,REIT - Diversified
-LVBI11,Fundo,Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund,Real Estate,Real Estate Services
-MANA11,Fundo,Manati Capital Hedge Fund Fundo De Investimento Imobiliario,Real Estate,REIT - Specialty
-MCCI11,Fundo,Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios,Real Estate,REIT - Diversified
-MCRE11,Fundo,Maua Capital Real Estate Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-MXRF11,Fundo,Maxi Renda Fundo De Investimento Imobiliaro - FII,Real Estate,REIT - Diversified
-MFII11,Fundo,Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário,Real Estate,REIT - Diversified
-OUJP11,Fundo,Ourinvest Jpp Fundo Investimento Imobiliario - Fii,Real Estate,REIT - Diversified
-PATL11,Fundo,Patria Logistica Fundo De Investimento Imobiliario,Real Estate,REIT - Industrial
-PCIP11,Fundo,Fundo De Investimento Imobiliario VBI Credito,Real Estate,REIT - Residential
-PMIS11,Fundo,Paramis Hedge Fund Fundo De Investimento Imobiliario - Fii,Real Estate,REIT - Specialty
-PMLL11,Fundo,Patria Malls Fundo De Investimento Imobiliario,Real Estate,REIT - Retail
-PORD11,Fundo,Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII,Real Estate,REIT - Diversified
-PSEC11,Fundo,Patria Securities Fundo De Investimento Imobiliário - Responsabilidade Limitada,Real Estate,REIT - Diversified
-PVBI11,Fundo,Fundo De Investimento ImobiliarRio Vbi Prime Properties,Real Estate,REIT - Diversified
-RPRI11,Fundo,RBR Premium Recebiveis Imobiliarios Fundo De Investimento Imobiliario,Real Estate,REIT - Specialty
-RBRL11,Fundo,RBR Log FII,Financial Services,Asset Management
-RBRP11,Fundo,Fundo Investimento Imobiliario Rbr Properties Fii,Financial Services,Asset Management
-RBRR11,Fundo,Fundo Investimento Imobiliario - FII RBR Rendimento High Grade,Financial Services,Asset Management
-RBRX11,Fundo,Rbr Alpha Plus Multiestrategia Real Estate Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-RBRY11,Fundo,Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario,Financial Services,Asset Management
-RECR11,Fundo,Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios,Real Estate,REIT - Diversified
-RECT11,Fundo,Fundo De Investimento Imobiliario - FII UBS Office,Financial Services,Asset Management
-RBFM11,Fundo,FII RIOB MT CI,Real Estate,REIT - Mortgage
-RCRB11,Fundo,Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa,Fundo Imobiliário,Imobiliário
-RBVA11,Fundo,Fundo Invest Imobiliario Agencias Caixa - FII Fund,Financial,Asset Management
-RZAK11,Fundo,Riza Akin Fundo De Investimento Imobiliario – FII,Real Estate,REIT - Diversified
-RZTR11,Fundo,Fundo De Investimento Imobiliario Riza Terrax,Real Estate,REIT - Diversified
-TRBL11,Fundo,SDI Logística Rio - Fundo de Investimento Imobiliário - FII,Real Estate,REIT - Industrial
-SPXS11,Fundo,Fundo De Investimento Imobiliario - Spx Syn Multiestrategia,Real Estate,REIT - Diversified
-SNCI11,Fundo,Suno Recebiveis Imobiliarios Fundo De Investimento Imobiliario,Industrials,Consulting Services
-SNEL11,Fundo,Fundo De Investimento Imobiliario Suno Energias Limpas,Real Estate,REIT - Specialty
-SNFF11,Fundo,Suno Fundo De Fundos De Investimento Imobiliario,Real Estate,REIT - Diversified
-TEPP11,Fundo,SDI Properties Fundo De Investimento Imobiliario,Real Estate,REIT - Residential
-TGAR11,Fundo,Fundo Investimento Imobiliario TG Ativo Real,Real Estate,REIT - Diversified
-TVRI11,Fundo,BB Progressivo II Fundo de Investimento Imobiliário - FII,Real Estate,REIT - Diversified
-TOPP11,Fundo,Rbr Top Offices Fundo De Investimento Imobiliario Responsabilidade Limitada,Real Estate,REIT - Diversified
-TRXF11,Fundo,TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII,Real Estate,REIT - Diversified
-URPR11,Fundo,Urca Prime Renda Fundo De Investimento Imobiliario - FII,Real Estate,REIT - Residential
-VGHF11,Fundo,Valora Hedge Fund Fundo De Investimento Imobiliario - Fii,Real Estate,REIT - Diversified
-VGIP11,Fundo,Valora Cri Indice De Preco Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-VGIR11,Fundo,Valora Re III Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-VCJR11,Fundo,Vectis Juros Real Fundo De Investimento Imobiliario - Fii,Real Estate,REIT - Diversified
-VGRI11,Fundo,Valora Renda Imobiliaria Fundo De Investimento Imobiliario - Responsabilidade Limitada,Real Estate,REIT - Diversified
-VIUR11,Fundo,Vinci Imoveis Urbanos Fundo De Investimento Imobiliario,Real Estate,REIT - Diversified
-VILG11,Fundo,Vinci Logistica Fundo Investimento Imobiliario FII,Financial Services,Asset Management
-VINO11,Fundo,Vinci Corporate Fundo De Investimento Imobiliario,Real Estate,REIT - Office
-VISC11,Fundo,Vinci Shopping Centers Fundo Investimento Imobiliario - Fii,Real Estate,REIT - Retail
-VRTM11,Fundo,FII VRTM    CI,Real Estate,REIT - Diversified
-WHGR11,Fundo,Whg Real Estate Fundo De Investimento Imobiliario – Fii,Real Estate,REIT - Specialty
-XPCI11,Fundo,Xp Credito Imobiliario ae Fundo De Investimento Imobiliario,Real Estate,REIT - Mortgage
-XPLG11,Fundo,Xp Log Fundo Investimento Imobiliario FII,Real Estate,REIT - Industrial
-XPML11,Fundo,Xp Malls Fundo Investimentos Imobiliarios,Real Estate,REIT - Retail
-XPSF11,Fundo,XP Selection Fundo De Fundos De Investimento Imobiliario - FII,Real Estate,REIT - Mortgage
+﻿Ticker,Categoria,Empresa,Nome_Curto,Tipo_Papel,Setor,Industria
+ALOS3,Ação,Allos S.A.,ALLOS       ON      NM,ON,Real Estate,Real Estate Services
+ABEV3,Ação,Ambev S.A.,AMBEV S/A   ON,ON,Consumer Defensive,Beverages - Brewers
+ASAI3,Ação,Sendas Distribuidora S.A.,ASSAI       ON      NM,ON,Consumer Defensive,Grocery Stores
+AURE3,Ação,Auren Energia S.A.,AUREN       ON      NM,ON,Utilities,Utilities - Renewable
+AXIA3,Ação,AXIA Energia SA,AXIA ENERGIAON      N1,ON,Utilities,Utilities - Renewable
+AXIA6,Ação,AXIA Energia SA,AXIA ENERGIAPNB     N1,Outro,Utilities,Utilities - Renewable
+AXIA7,Ação,AXIA Energia SA,AXIA ENERGIAPNC     N1,Outro,Utilities,Utilities - Renewable
+AZZA3,Ação,Azzas 2154 S.A.,AZZAS 2154  ON      NM,ON,Consumer Cyclical,Footwear & Accessories
+B3SA3,Ação,"B3 S.A. - Brasil, Bolsa, Balcão",B3          ON      NM,ON,Financial Services,Financial Data & Stock Exchanges
+BBSE3,Ação,BB Seguridade Participações S.A.,BBSEGURIDADEON      NM,ON,Financial Services,Insurance - Diversified
+BBDC3,Ação,Banco Bradesco S.A.,BRADESCO    ON      N1,ON,Financial Services,Banks - Regional
+BBDC4,Ação,Banco Bradesco S.A.,BRADESCO    PN      N1,PN,Financial Services,Banks - Regional
+BRAP4,Ação,Bradespar S.A.,BRADESPAR   PN      N1,PN,Financial Services,Asset Management
+BBAS3,Ação,Banco do Brasil S.A.,BRASIL      ON      NM,ON,Financial Services,Banks - Regional
+BRKM5,Ação,Braskem S.A.,BRASKEM     PNA     N1,Outro,Basic Materials,Chemicals
+BRAV3,Ação,Brava Energia S.A.,BRAVA       ON      NM,ON,Energy,Oil & Gas E&P
+BPAC11,Ação,Banco BTG Pactual S.A.,BTGP BANCO  UNT     N2,UNT,Financial Services,Capital Markets
+CXSE3,Ação,Caixa Seguridade Participações S.A.,CAIXA SEGURION      NM,ON,Financial Services,Insurance - Diversified
+CEAB3,Ação,C&A Modas S.A.,CEA MODAS   ON      NM,ON,Consumer Cyclical,Specialty Retail
+CMIG4,Ação,Companhia Energética de Minas Gerais - CEMIG,CEMIG       PN      N1,PN,Utilities,Utilities - Diversified
+COGN3,Ação,Cogna Educação S.A.,COGNA ON    ON      NM,ON,Consumer Defensive,Education & Training Services
+CSMG3,Ação,Companhia de Saneamento de Minas Gerais,COPASA      ON      NM,ON,Utilities,Utilities - Regulated Water
+CPLE3,Ação,Companhia Paranaense de Energia - COPEL,COPEL       ON      NM,ON,Utilities,Utilities - Regulated Electric
+CSAN3,Ação,Cosan S.A.,COSAN       ON      NM,ON,Energy,Oil & Gas Refining & Marketing
+CPFE3,Ação,CPFL Energia S.A.,CPFL ENERGIAON      NM,ON,Utilities,Utilities - Regulated Electric
+CMIN3,Ação,CSN Mineração S.A.,CSNMINERACAOON      N2,ON,Basic Materials,Steel
+CURY3,Ação,Cury Construtora e Incorporadora S.A.,CURY S/A    ON      NM,ON,Real Estate,Real Estate - Development
+CYRE3,Ação,Cyrela Brazil Realty S.A. Empreendimentos e Participações,CYRELA REALTON      NM,ON,Consumer Cyclical,Residential Construction
+CYRE4,Ação,Cyrela Brazil Realty S.A. Empreendimentos e Participações,CYRELA REALTPN      NM,PN,Consumer Cyclical,Residential Construction
+DIRR3,Ação,Direcional Engenharia S.A.,DIRECIONAL  ON      NM,ON,Real Estate,Real Estate - Development
+EMBJ3,Ação,Embraer S.A.,EMBRAER     ON  ATZ NM,ON,Industrials,Aerospace & Defense
+ENGI11,Ação,Energisa S.A.,ENERGISA    UNT     N2,UNT,Utilities,Utilities - Regulated Electric
+ENEV3,Ação,Eneva S.A.,ENEVA       ON      NM,ON,Utilities,Utilities - Diversified
+EGIE3,Ação,Engie Brasil Energia S.A.,ENGIE BRASILON      NM,ON,Utilities,Utilities - Renewable
+EQTL3,Ação,Equatorial S.A.,EQUATORIAL  ON      NM,ON,Utilities,Utilities - Regulated Electric
+FLRY3,Ação,Fleury S.A.,FLEURY      ON      NM,ON,Healthcare,Diagnostics & Research
+GGBR4,Ação,Gerdau S.A.,GERDAU      PN  ED  N1,PN,Basic Materials,Steel
+GOAU4,Ação,Metalurgica Gerdau S.A.,GERDAU MET  PN  ED  N1,PN,Basic Materials,Steel
+HAPV3,Ação,Hapvida Participações e Investimentos S.A.,HAPVIDA     ON  ATZ NM,ON,Financial Services,Insurance - Life
+HYPE3,Ação,Hypera S.A.,HYPERA      ON      NM,ON,Healthcare,Drug Manufacturers - Specialty & Generic
+IGTI11,Ação,Iguatemi S.A.,IGUATEMI S.AUNT     N1,UNT,Real Estate,Real Estate Services
+IRBR3,Ação,IRB-Brasil Resseguros S.A.,IRBBRASIL REON      NM,ON,Financial Services,Insurance - Reinsurance
+ISAE4,Ação,ISA Energía Brasil S.A.,ISA ENERGIA PN  ED  N1,PN,Utilities,Utilities - Independent Power Producers
+ITSA4,Ação,Itaúsa S.A.,ITAUSA      PN  EJ  N1,PN,Industrials,Conglomerates
+ITUB4,Ação,Itaú Unibanco Holding S.A.,ITAUUNIBANCOPN      N1,PN,Financial Services,Banks - Regional
+KLBN11,Ação,Klabin S.A.,KLABIN S/A  UNT     N2,UNT,Basic Materials,Paper & Paper Products
+RENT3,Ação,Localiza Rent a Car S.A.,LOCALIZA    ON      NM,ON,Industrials,Rental & Leasing Services
+RENT4,Ação,Localiza Rent a Car S.A.,LOCALIZA    PN      NM,PN,Industrials,Rental & Leasing Services
+LREN3,Ação,Lojas Renner S.A.,LOJAS RENNERON      NM,ON,Consumer Cyclical,Department Stores
+MGLU3,Ação,Magazine Luiza S.A.,MAGAZ LUIZA ON      NM,ON,Consumer Cyclical,Specialty Retail
+POMO4,Ação,Marcopolo S.A.,MARCOPOLO   PN      N2,PN,Industrials,Farm & Heavy Construction Machinery
+MBRF3,Ação,MBRF Global Foods Company S.A.,MARFRIG     ON  ATZ NM,ON,Consumer Defensive,Packaged Foods
+BEEF3,Ação,Minerva S.A.,MINERVA     ON      NM,ON,Consumer Defensive,Farm Products
+MOTV3,Ação,Motiva Infraestrutura de Mobilidade S.A.,MOTIVA SA   ON      NM,ON,Industrials,Infrastructure Operations
+MRVE3,Ação,MRV Engenharia e Participações S.A.,MRV         ON  ATZ NM,ON,Real Estate,Real Estate - Development
+MULT3,Ação,Multiplan Empreendimentos Imobiliários S.A.,MULTIPLAN   ON      N2,ON,Real Estate,Real Estate Services
+NATU3,Ação,Natura Cosméticos S.A.,NATURA      ON      NM,ON,Consumer Defensive,Household & Personal Products
+PETR3,Ação,Petróleo Brasileiro S.A. - Petrobras,PETROBRAS   ON      N2,ON,Energy,Oil & Gas Integrated
+PETR4,Ação,Petróleo Brasileiro S.A. - Petrobras,PETROBRAS   PN      N2,PN,Energy,Oil & Gas Integrated
+RECV3,Ação,Petroreconcavo S.A.,PETRORECSA  ON      NM,ON,Energy,Oil & Gas E&P
+PRIO3,Ação,Prio S.A.,PETRORIO    ON      NM,ON,Energy,Oil & Gas E&P
+PSSA3,Ação,Porto Seguro S.A.,PORTO SEGUROON      NM,ON,Financial Services,Insurance - Diversified
+RADL3,Ação,Raia Drogasil S.A.,RAIADROGASILON      NM,ON,Healthcare,Pharmaceutical Retailers
+RDOR3,Ação,Rede D'Or São Luiz S.A.,REDE D OR   ON      NM,ON,Healthcare,Medical Care Facilities
+RAIL3,Ação,Rumo S.A.,RUMO S.A.   ON      NM,ON,Industrials,Railroads
+SBSP3,Ação,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,SABESP      ON      NM,ON,Utilities,Utilities - Regulated Water
+SANB11,Ação,Banco Santander (Brasil) S.A.,SANTANDER BRUNT,UNT,Financial Services,Banks - Regional
+CSNA3,Ação,Companhia Siderúrgica Nacional,SID NACIONALON,ON,Basic Materials,Steel
+SLCE3,Ação,SLC Agrícola S.A.,SLC AGRICOLAON      NM,ON,Consumer Defensive,Farm Products
+SMFT3,Ação,Smartfit Escola de Ginástica e Dança S.A.,SMART FIT   ON      NM,ON,Consumer Cyclical,Leisure
+SUZB3,Ação,Suzano S.A.,SUZANO S.A. ON      NM,ON,Basic Materials,Paper & Paper Products
+TAEE11,Ação,Transmissora Aliança de Energia Elétrica S.A.,TAESA       UNT     N2,UNT,Utilities,Utilities - Regulated Electric
+VIVT3,Ação,Telefônica Brasil S.A.,TELEF BRASILON,ON,Communication Services,Telecom Services
+TIMS3,Ação,TIM S.A.,TIM         ON      NM,ON,Communication Services,Telecom Services
+TOTS3,Ação,TOTVS S.A.,TOTVS       ON      NM,ON,Technology,Software - Application
+UGPA3,Ação,Ultrapar Participações S.A.,ULTRAPAR    ON      NM,ON,Energy,Oil & Gas Refining & Marketing
+USIM5,Ação,Usinas Siderúrgicas de Minas Gerais S.A.,USIMINAS    PNA     N1,Outro,Basic Materials,Steel
+VALE3,Ação,Vale S.A.,VALE        ON      NM,ON,Basic Materials,Other Industrial Metals & Mining
+VAMO3,Ação,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",VAMOS       ON  ES  NM,ON,Industrials,Rental & Leasing Services
+VBBR3,Ação,Vibra Energia S.A.,VIBRA       ON      NM,ON,Consumer Cyclical,Specialty Retail
+VIVA3,Ação,Vivara Participações S.A.,VIVARA S.A. ON      NM,ON,Consumer Cyclical,Luxury Goods
+WEGE3,Ação,WEG S.A.,WEG         ON      NM,ON,Industrials,Electrical Equipment & Parts
+YDUQ3,Ação,Yduqs Participações S.A.,YDUQS PART  ON      NM,ON,Consumer Defensive,Education & Training Services
+CACR11,Fundo,Supernova Fundo De Investimento Imobiliario - Recebiveis Imobiliarios,CARTESIA FIICI,FII,Real Estate,REIT - Diversified
+AFHI11,Fundo,Af Invest Cri Fundo De Investimento Imobiliario - Recebiveis Imobiliarios,FII AFHI CRICI  ER,FII,Real Estate,REIT - Diversified
+ALZR11,Fundo,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario,FII ALIANZA CI  ER,FII,Real Estate,Real Estate Services
+RZAT11,Fundo,Riza Arctium Real Estate Fundo De Investimento Imobiliario,FII ARCTIUM CI  ER,FII,Real Estate,REIT - Diversified
+FATN11,Fundo,BRC Renda Corporativa FII - FII Athena I,FII ATHENA ICI,FII,Real Estate,REIT - Specialty
+AZPL11,Fundo,FII AZPL    CI,FII AZPL    CI,FII,Real Estate,REIT - Industrial
+BBIG11,Fundo,Bb Premium Malls Fundo De Investimento Imobiliário De Responsabilidade Limitada,FII BBIG    CI,FII,Real Estate,REIT - Retail
+BRCR11,Fundo,Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund,FII BC FUND CI,FII,Real Estate,REIT - Office
+BCIA11,Fundo,Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario,FII BCIA    CI,FII,Real Estate,REIT - Diversified
+BCRI11,Fundo,Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII,FII BEES CRICI,FII,Real Estate,REIT - Diversified
+BLMG11,Fundo,Bluemacaw Logastica Fundo De Investimento ImobiliaRio,FII BLUE LOGCI,FII,Real Estate,REIT - Industrial
+BRCO11,Fundo,Bresco - Fundo De Investimento Imobiliario,FII BRESCO  CI,FII,Real Estate,REIT - Industrial
+BROF11,Fundo,Brpr Corporate Offices Fundo De Investimento Imobiliario,FII BROF    CI  ER,FII,Real Estate,REIT - Diversified
+BTAL11,Fundo,FII Btg Pactual Agro Logistica,FII BTG AGROCI  ER,FII,Real Estate,REIT - Industrial
+BTCI11,Fundo,Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario,FII BTG CRI CI,FII,Financial Services,Asset Management
+BPML11,Fundo,Fundo De Investimento Imobiliario BTG Pactual Shoppings,FII BTG SHOPCI  ER,FII,Real Estate,REIT - Retail
+BTHF11,Fundo,Btg Pactual Real Estate Hedge Fund Fii Fundo De Investimento Imobiliario,FII BTHF    CI,FII,Real Estate,REIT - Diversified
+BTLG11,Fundo,BTG Pactual Logística Fundo de Investimento Imobiliário,FII BTLG    CI  ER,FII,Real Estate,REIT - Industrial
+CCME11,Fundo,Canuma Capital Multiestrategia Fundo De Investimento Imobiliario,FII CANUMA  CI,FII,Real Estate,REIT - Diversified
+CPTS11,Fundo,Capitania Securities II Fundo Investimento Imobiliario FII,FII CAPI SECCI  ER,FII,Real Estate,REIT - Diversified
+ICRI11,Fundo,FII CI IPCA CI,FII CI IPCA CI,FII,Real Estate,REIT - Diversified
+CLIN11,Fundo,Clave Indices De Precos Fundo De Investimento Imobiliario,FII CLAVE INCI,FII,Real Estate,REIT - Diversified
+CPSH11,Fundo,Capitania Shoppings Fundo De Investimento Imobiliario,FII CPSH    CI  ER,FII,Real Estate,REIT - Retail
+CYCR11,Fundo,Cyrela Credito - Fundo De Investimento Imobiliario,FII CYRELA  CI,FII,Real Estate,REIT - Diversified
+DEVA11,Fundo,Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII DEVANT  CI,FII,Real Estate,REIT - Diversified
+VRTA11,Fundo,Fator Veritá Fundo de Investimento Imobiliário - FII,FII FATOR VECI,FII,Real Estate,REIT - Diversified
+GTWR11,Fundo,Fundo Investimento Imobiliario Green Towers,FII G TOWERSCI,FII,Real Estate,REIT - Office
+GZIT11,Fundo,Gazit Malls Fundo De Investimento Imobiliario,FII GAZIT   CI,FII,Real Estate,REIT - Specialty
+GGRC11,Fundo,Ggr Covipe Renda Fundo Investimento Imobiliario,FII GGRCOVEPCI,FII,Real Estate,REIT - Industrial
+GRUL11,Fundo,Icatu Vanguarda Gru Logistico Fundo De Investimento Imobiliario Responsabilidade Limitada,FII GRUL    CI,FII,Real Estate,REIT - Diversified
+GARE11,Fundo,Guardian Logistica Fundo De Investimento Imobiliario,FII GUARDIANCI,FII,Real Estate,REIT - Specialty
+HABT11,Fundo,Habitat Ii - Fundo De Investimento Imobiliario,FII HABIT IICI,FII,Financial Services,Asset Management
+HCTR11,Fundo,Fundo De Investimento Imobiliario Hectare Ce,FII HECTARE CI,FII,Financial Services,Asset Management
+HGBS11,Fundo,HEDGE Brasil Shopping Fundo de Investimento Imobiliário,FII HEDGEBS CI  ES,FII,Real Estate,REIT - Retail
+HGCR11,Fundo,CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII,FII HGCR PAXCI,FII,Real Estate,REIT - Diversified
+HGLG11,Fundo,Cshg Logistica - Fundo De Investimento Imobiliario,FII HGLG PAXCI,FII,Real Estate,REIT - Diversified
+HGRE11,Fundo,CSHG Real Estate - Fundo de Investimento Imobiliario - FII,FII HGRE PAXCI,FII,Real Estate,REIT - Diversified
+HGRU11,Fundo,Patria Renda Urbana - Fundo De Investimento Imobiliario,FII HGRU PAXCI,FII,Real Estate,REIT - Diversified
+HTMX11,Fundo,FD Invest Imob Hotel Maxinvest,FII HOTEL MXCI,FII,Real Estate,REIT - Hotel & Motel
+HSAF11,Fundo,Hsi Ativos Financeiros Fundos Investimentos Imoliarios,FII HSI CRI CI,FII,Real Estate,REIT - Diversified
+HSLG11,Fundo,Hsi Logistica Fundo De Investimento Imobiliario,FII HSI LOG CI,FII,Real Estate,REIT - Diversified
+HSML11,Fundo,Hsi Malls Fundo De Investimento Imobiliario,FII HSI MALLCI,FII,Financial Services,Asset Management
+HFOF11,Fundo,Hedge Top Fofii 3 Fundo Investimento Imobilirio,FII HTOPFOF3CI,FII,Real Estate,REIT - Specialty
+ITRI11,Fundo,Itau Total Return Fundo De Investimento Imobiliario,FII ITRI    CI,FII,Real Estate,REIT - Diversified
+JSAF11,Fundo,Js Ativos Financeiros Fundo De Investimento Imobiliario,FII JS A FINCI,FII,Real Estate,REIT - Diversified
+JSRE11,Fundo,JS Real Estate multigestão - FII fund,FII JS REAL CI,FII,Financial,REIT - Diversified
+JSCR11,Fundo,FII JSCR    CI,FII JSCR    CI,FII,Real Estate,REIT - Diversified
+KISU11,Fundo,Kilima Fundo De Investimento Em Cotas De Fundos Imobiliarios Suno 30,FII KILIMA  CI,FII,Real Estate,REIT - Diversified
+KNRI11,Fundo,Kinea Renda Imobiliária Fundo de Investimento Imobiliário,FII KINEA   CI,FII,Financial,REIT - Diversified
+KCRE11,Fundo,Kinea Creditas Fundo De Investimento Imobiliario - FII,FII KINEA CRCI,FII,Real Estate,REIT - Specialty
+KNHF11,Fundo,Kinea Hedge Fund Fundo De Investimento Imobiliario,FII KINEA HFCI,FII,Financial Services,Asset Management
+KNHY11,Fundo,Kinea High Yield Cri Fundo Investimento Imobiliario FII,FII KINEA HYCI,FII,Financial Services,Asset Management
+KNIP11,Fundo,Kinea Indices Precos Fundo Investimento Imobiliario - FII,FII KINEA IPCI,FII,Real Estate,REIT - Diversified
+KNCR11,Fundo,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,FII KINEA RICI,FII,Real Estate,REIT - Mortgage
+KNSC11,Fundo,Kinea Securities Fundo De Investimento Imobiliario – Fii,FII KINEA SCCI,FII,Real Estate,REIT - Residential
+KNUQ11,Fundo,FII KINEA UNCI,FII KINEA UNCI,FII,Real Estate,REIT - Diversified
+KFOF11,Fundo,Kinea Fundo Fundos De Investimento Imobiliario FII,FII KINEAFOFCI,FII,Financial Services,Asset Management
+KIVO11,Fundo,Kilima Volkano Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII KIVO    CI,FII,Real Estate,REIT - Diversified
+KORE11,Fundo,Kinea Oportunidades Real Estate Fundo De Investimento Imobiliario,FII KORE    CI,FII,Real Estate,REIT - Diversified
+LIFE11,Fundo,Life Capital Partners Fundo De Investimentos Imobiliarios,FII LIFE    CI,FII,Real Estate,REIT - Diversified
+LVBI11,Fundo,Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund,FII LVBI VBICI,FII,Real Estate,Real Estate Services
+MANA11,Fundo,Manati Capital Hedge Fund Fundo De Investimento Imobiliario,FII MANATI  CI,FII,Real Estate,REIT - Specialty
+MCCI11,Fundo,Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios,FII MAUA    CI  ER,FII,Real Estate,REIT - Diversified
+MCRE11,Fundo,Maua Capital Real Estate Fundo De Investimento Imobiliario,FII MAUA RE CI  ER,FII,Real Estate,REIT - Diversified
+MXRF11,Fundo,Maxi Renda Fundo De Investimento Imobiliaro - FII,FII MAXI RENCI,FII,Real Estate,REIT - Diversified
+MFII11,Fundo,Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário,FII MERITO ICI,FII,Real Estate,REIT - Diversified
+OUJP11,Fundo,Ourinvest Jpp Fundo Investimento Imobiliario - Fii,FII OURI JPPCI,FII,Real Estate,REIT - Diversified
+PATL11,Fundo,Patria Logistica Fundo De Investimento Imobiliario,FII PATL VBICI,FII,Real Estate,REIT - Industrial
+PCIP11,Fundo,Fundo De Investimento Imobiliario VBI Credito,FII PCIP PAXCI,FII,Real Estate,REIT - Residential
+PMIS11,Fundo,Paramis Hedge Fund Fundo De Investimento Imobiliario - Fii,FII PMIS    CI,FII,Real Estate,REIT - Specialty
+PMLL11,Fundo,Patria Malls Fundo De Investimento Imobiliario,FII PMLL PAXCI,FII,Real Estate,REIT - Retail
+PORD11,Fundo,Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII,FII POLO CRICI,FII,Real Estate,REIT - Diversified
+PSEC11,Fundo,Patria Securities Fundo De Investimento Imobiliário - Responsabilidade Limitada,FII PSEC PAXCI,FII,Real Estate,REIT - Diversified
+PVBI11,Fundo,Fundo De Investimento ImobiliarRio Vbi Prime Properties,FII PVBI VBICI,FII,Real Estate,REIT - Diversified
+RPRI11,Fundo,RBR Premium Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII RBR PR  CI,FII,Real Estate,REIT - Specialty
+RBRL11,Fundo,RBR Log FII,FII RBRL PAXCI,FII,Financial Services,Asset Management
+RBRP11,Fundo,Fundo Investimento Imobiliario Rbr Properties Fii,FII RBRP PAXCI,FII,Financial Services,Asset Management
+RBRR11,Fundo,Fundo Investimento Imobiliario - FII RBR Rendimento High Grade,FII RBRR PAXCI  ER,FII,Financial Services,Asset Management
+RBRX11,Fundo,Rbr Alpha Plus Multiestrategia Real Estate Fundo De Investimento Imobiliario,FII RBRX PAXCI  ER,FII,Real Estate,REIT - Diversified
+RBRY11,Fundo,Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario,FII RBRY PAXCI  ER,FII,Financial Services,Asset Management
+RECR11,Fundo,Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios,FII REC RECECI,FII,Real Estate,REIT - Diversified
+RECT11,Fundo,Fundo De Investimento Imobiliario - FII UBS Office,FII REC RENDCI,FII,Financial Services,Asset Management
+RBFM11,Fundo,FII RIOB MT CI,FII RIOB MT CI,FII,Real Estate,REIT - Mortgage
+RCRB11,Fundo,Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa,FII RIOB RC CI,FII,Fundo Imobiliário,Imobiliário
+RBVA11,Fundo,Fundo Invest Imobiliario Agencias Caixa - FII Fund,FII RIOB VA CI,FII,Financial,Asset Management
+RZAK11,Fundo,Riza Akin Fundo De Investimento Imobiliario – FII,FII RIZA AKNCI  ER,FII,Real Estate,REIT - Diversified
+RZTR11,Fundo,Fundo De Investimento Imobiliario Riza Terrax,FII RIZA TX CI,FII,Real Estate,REIT - Diversified
+TRBL11,Fundo,SDI Logística Rio - Fundo de Investimento Imobiliário - FII,FII SDI LOG CI,FII,Real Estate,REIT - Industrial
+SPXS11,Fundo,Fundo De Investimento Imobiliario - Spx Syn Multiestrategia,FII SPX SYN CI,FII,Real Estate,REIT - Diversified
+SNCI11,Fundo,Suno Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII SUNO CRICI  ER,FII,Industrials,Consulting Services
+SNEL11,Fundo,Fundo De Investimento Imobiliario Suno Energias Limpas,FII SUNO EL CI  ER,FII,Real Estate,REIT - Specialty
+SNFF11,Fundo,Suno Fundo De Fundos De Investimento Imobiliario,FII SUNOFOFICI  ER,FII,Real Estate,REIT - Diversified
+TEPP11,Fundo,SDI Properties Fundo De Investimento Imobiliario,FII TEL PROPCI,FII,Real Estate,REIT - Residential
+TGAR11,Fundo,Fundo Investimento Imobiliario TG Ativo Real,FII TG ATIVOCI,FII,Real Estate,REIT - Diversified
+TVRI11,Fundo,BB Progressivo II Fundo de Investimento Imobiliário - FII,FII TIVIO RICI,FII,Real Estate,REIT - Diversified
+TOPP11,Fundo,Rbr Top Offices Fundo De Investimento Imobiliario Responsabilidade Limitada,FII TOPP PAXCI  ER,FII,Real Estate,REIT - Diversified
+TRXF11,Fundo,TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII,FII TRX REALCI,FII,Real Estate,REIT - Diversified
+URPR11,Fundo,Urca Prime Renda Fundo De Investimento Imobiliario - FII,FII URCA RENCI,FII,Real Estate,REIT - Residential
+VGHF11,Fundo,Valora Hedge Fund Fundo De Investimento Imobiliario - Fii,FII VALOR HECI,FII,Real Estate,REIT - Diversified
+VGIP11,Fundo,Valora Cri Indice De Preco Fundo De Investimento Imobiliario,FII VALORAIPCI  ER,FII,Real Estate,REIT - Diversified
+VGIR11,Fundo,Valora Re III Fundo De Investimento Imobiliario,FII VALREIIICI  ER,FII,Real Estate,REIT - Diversified
+VCJR11,Fundo,Vectis Juros Real Fundo De Investimento Imobiliario - Fii,FII VECTIS  CI,FII,Real Estate,REIT - Diversified
+VGRI11,Fundo,Valora Renda Imobiliaria Fundo De Investimento Imobiliario - Responsabilidade Limitada,FII VGRI    CI,FII,Real Estate,REIT - Diversified
+VIUR11,Fundo,Vinci Imoveis Urbanos Fundo De Investimento Imobiliario,FII VINCI IUCI,FII,Real Estate,REIT - Diversified
+VILG11,Fundo,Vinci Logistica Fundo Investimento Imobiliario FII,FII VINCI LGCI,FII,Financial Services,Asset Management
+VINO11,Fundo,Vinci Corporate Fundo De Investimento Imobiliario,FII VINCI OFCI,FII,Real Estate,REIT - Office
+VISC11,Fundo,Vinci Shopping Centers Fundo Investimento Imobiliario - Fii,FII VINCI SCCI,FII,Real Estate,REIT - Retail
+VRTM11,Fundo,FII VRTM    CI,FII VRTM    CI,FII,Real Estate,REIT - Diversified
+WHGR11,Fundo,Whg Real Estate Fundo De Investimento Imobiliario – Fii,FII WHG REALCI,FII,Real Estate,REIT - Specialty
+XPCI11,Fundo,Xp Credito Imobiliario ae Fundo De Investimento Imobiliario,FII XP CRED CI,FII,Real Estate,REIT - Mortgage
+XPLG11,Fundo,Xp Log Fundo Investimento Imobiliario FII,FII XP LOG  CI,FII,Real Estate,REIT - Industrial
+XPML11,Fundo,Xp Malls Fundo Investimentos Imobiliarios,FII XP MALLSCI  ER,FII,Real Estate,REIT - Retail
+XPSF11,Fundo,XP Selection Fundo De Fundos De Investimento Imobiliario - FII,FII XP SELECCI,FII,Real Estate,REIT - Mortgage
