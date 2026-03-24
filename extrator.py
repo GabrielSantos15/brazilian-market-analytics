@@ -28,7 +28,7 @@ tickers_yahoo.append('XFIX11.SA') # ETF espelho do IFIX
 
 # 2. Baixa os dados 
 print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos (incluindo IBOV e IFIX)...")
-dados = yf.download(tickers_yahoo, start="2020-01-01", actions=True)
+dados = yf.download(tickers_yahoo, start="2020-01-01", actions=True, auto_adjust=False)
 
 # --- BLOCO 1: TRATAMENTO DOS PREÇOS ---
 dados.columns.names = ['Price', 'Codigo']
