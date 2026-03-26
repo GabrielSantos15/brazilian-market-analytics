@@ -25,9 +25,10 @@ tickers_yahoo = [ticker + '.SA' for ticker in df_ativos['Codigo']]
 # Adicionando os Benchmarks na nossa lista de extração
 tickers_yahoo.append('^BVSP')     # Ibovespa
 tickers_yahoo.append('XFIX11.SA') # ETF espelho do IFIX
+tickers_yahoo.append('^GSPC')     # S&P 500 (EUA)
 
 # 2. Baixa os dados 
-print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos (incluindo IBOV e IFIX)...")
+print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos (incluindo IBOV, IFIX e S&P500)...")
 dados = yf.download(tickers_yahoo, start="2020-01-01", actions=True, auto_adjust=False)
 
 # --- BLOCO 1: TRATAMENTO DOS PREÇOS ---
