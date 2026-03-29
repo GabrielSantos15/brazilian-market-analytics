@@ -31,7 +31,7 @@ tickers_yahoo.append('^GSPC')     # S&P 500 (EUA)
 print(f"Baixando preços e dividendos de {len(tickers_yahoo)} ativos (incluindo IBOV, IFIX e S&P500)...")
 dados = yf.download(tickers_yahoo, start="2020-01-01", actions=True, auto_adjust=False)
 
-# --- BLOCO 1: TRATAMENTO DOS PREÇOS ---
+## --- BLOCO 1: TRATAMENTO DOS PREÇOS ---
 dados.columns.names = ['Price', 'Codigo']
 df_precos = dados.stack(level='Codigo').reset_index()
 
@@ -41,6 +41,22 @@ df_precos['Adj Close'] = df_precos['Adj Close'].fillna(df_precos['Close'])
 
 tabela_precos = df_precos[['Date', 'Codigo', 'Close', 'Adj Close']].copy()
 tabela_precos.rename(columns={'Close': 'Preco_Normal', 'Adj Close': 'Preco_Ajustado'}, inplace=True)
+
+# GARANTE ORDEM CORRETA
+tabela_precos = tabela_precos.sort_values(['Codigo', 'Date'])
+
+# VARIAÇÃO DIÁRIA (%)
+tabela_precos['Var_Diaria'] = (
+    tabela_precos.groupby('Codigo')['Preco_Ajustado']
+    .pct_change()
+)
+
+# VARIAÇÃO DIÁRIA ABSOLUTA (opcional, mas recomendado)
+tabela_precos['Var_Diaria_Abs'] = (
+    tabela_precos.groupby('Codigo')['Preco_Ajustado']
+    .diff()
+)
+
 tabela_precos = tabela_precos.dropna(subset=['Preco_Normal'])
 tabela_precos['Date'] = tabela_precos['Date'].dt.tz_localize(None)
 tabela_precos['Codigo'] = tabela_precos['Codigo'].str.replace('.SA', '', regex=False)
